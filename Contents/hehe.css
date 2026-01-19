@@ -1,4 +1,20 @@
 .f1 {
   color: red;
-font-style: italic;
+  font-style: italic;
+  font-weight: bold;
+  text-decoration: underline;
+  font-size: 50px;
+  font-family: "Times New Roman";
+  margin-top: 18px;
+  margin-bottom: 12px;
+}
+.f2 {
+  color: black;
+  font-style: normal;
+  font-weight: none;
+  text-decoration: underline;
+  font-size: 50px;
+  font-family: "Arial";
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
